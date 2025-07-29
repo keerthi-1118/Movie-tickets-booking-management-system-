@@ -20,7 +20,7 @@ A web-based application designed to streamline the process of booking and managi
 - **Database**: MySQL  
 
 ## 📂 Project Structure
-
+```
 movie-booking-system/
 ├── index.html
 ├── login.php
@@ -36,3 +36,4 @@ movie-booking-system/
 │   └── main.js
 └── db/
     └── database.sql
+```
